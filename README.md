@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi and welcome 👋
+I am a software test engineer always curious to learn new cool things, either tech related or otherwise. I am currently working on improving my Python skills and learning web development. Here you can find my latest and greatest projects 😸
 <!--
 **venlar/venlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
